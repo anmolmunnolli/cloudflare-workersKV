@@ -1,0 +1,2 @@
+workers key value pairs
+wrangler kv:namespace create MY_NEW_KV 
